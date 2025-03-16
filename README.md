@@ -20,10 +20,10 @@ The **Smart City System** is an interactive desktop application designed to help
 - 🔹 **File Handling** – Data storage for user records and services  
 - 🔹 **VS Code** – Development Environment  
 📦 SmartCitySystem
- ├── 📁 images                # Stores UI images (tourist places, facilities)
- ├── 📄 SmartCitySwing.java   # Main Java Swing GUI file
- ├── 📄 Dashboard.java        # Handles user navigation
- ├── 📄 Authentication.java   # User login and registration logic
- ├── 📄 ComplaintSystem.java  # Manages complaints
- ├── 📄 BillPayment.java      # Handles online transactions
- ├── 📄 README.md             # Project documentation (this file)
+- ├── 📁 images                # Stores UI images (tourist places, facilities)
+- ├── 📄 SmartCitySwing.java   # Main Java Swing GUI file
+- ├── 📄 Dashboard.java        # Handles user navigation
+- ├── 📄 Authentication.java   # User login and registration logic
+- ├── 📄 ComplaintSystem.java  # Manages complaints
+- ├── 📄 BillPayment.java      # Handles online transactions
+- ├── 📄 README.md             # Project documentation (this file)
